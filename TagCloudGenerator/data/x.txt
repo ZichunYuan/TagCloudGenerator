@@ -1,0 +1,114 @@
+<html>
+<head>
+<title>Top 100 Words in data/importance.txt</title>
+<link href="tagcloud.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h2>Top 100 Words in data/importance.txt</h2>
+<hr>
+<div class="cdiv">
+<p class="cbox">
+<span style="cursor:default" class="f" title="count: 29">a</span>
+<span style="cursor:default" class="f" title="count: 13">about</span>
+<span style="cursor:default" class="f" title="count: 12">after</span>
+<span style="cursor:default" class="f" title="count: 23">algernon</span>
+<span style="cursor:default" class="f" title="count: 15">all</span>
+<span style="cursor:default" class="f" title="count: 15">am</span>
+<span style="cursor:default" class="f" title="count: 13">an</span>
+<span style="cursor:default" class="f" title="count: 23">and</span>
+<span style="cursor:default" class="f" title="count: 14">any</span>
+<span style="cursor:default" class="f" title="count: 17">are</span>
+<span style="cursor:default" class="f" title="count: 15">as</span>
+<span style="cursor:default" class="f" title="count: 17">at</span>
+<span style="cursor:default" class="f" title="count: 12">back</span>
+<span style="cursor:default" class="f" title="count: 17">be</span>
+<span style="cursor:default" class="f" title="count: 13">been</span>
+<span style="cursor:default" class="f" title="count: 16">bracknell</span>
+<span style="cursor:default" class="f" title="count: 13">brother</span>
+<span style="cursor:default" class="f" title="count: 12">bunbury</span>
+<span style="cursor:default" class="f" title="count: 16">but</span>
+<span style="cursor:default" class="f" title="count: 13">can</span>
+<span style="cursor:default" class="f" title="count: 22">cecily</span>
+<span style="cursor:default" class="f" title="count: 13">chasuble</span>
+<span style="cursor:default" class="f" title="count: 13">dear</span>
+<span style="cursor:default" class="f" title="count: 14">do</span>
+<span style="cursor:default" class="f" title="count: 14">don</span>
+<span style="cursor:default" class="f" title="count: 12">down</span>
+<span style="cursor:default" class="f" title="count: 12">enter</span>
+<span style="cursor:default" class="f" title="count: 14">ernest</span>
+<span style="cursor:default" class="f" title="count: 12">ever</span>
+<span style="cursor:default" class="f" title="count: 17">for</span>
+<span style="cursor:default" class="f" title="count: 13">from</span>
+<span style="cursor:default" class="f" title="count: 12">good</span>
+<span style="cursor:default" class="f" title="count: 18">gwendolen</span>
+<span style="cursor:default" class="f" title="count: 13">had</span>
+<span style="cursor:default" class="f" title="count: 12">hand</span>
+<span style="cursor:default" class="f" title="count: 14">has</span>
+<span style="cursor:default" class="f" title="count: 20">have</span>
+<span style="cursor:default" class="f" title="count: 15">he</span>
+<span style="cursor:default" class="f" title="count: 14">her</span>
+<span style="cursor:default" class="f" title="count: 12">him</span>
+<span style="cursor:default" class="f" title="count: 14">his</span>
+<span style="cursor:default" class="f" title="count: 12">how</span>
+<span style="cursor:default" class="f" title="count: 48">i</span>
+<span style="cursor:default" class="f" title="count: 14">if</span>
+<span style="cursor:default" class="f" title="count: 24">in</span>
+<span style="cursor:default" class="f" title="count: 29">is</span>
+<span style="cursor:default" class="f" title="count: 23">it</span>
+<span style="cursor:default" class="f" title="count: 23">jack</span>
+<span style="cursor:default" class="f" title="count: 13">know</span>
+<span style="cursor:default" class="f" title="count: 17">lady</span>
+<span style="cursor:default" class="f" title="count: 13">lane</span>
+<span style="cursor:default" class="f" title="count: 13">like</span>
+<span style="cursor:default" class="f" title="count: 17">me</span>
+<span style="cursor:default" class="f" title="count: 16">miss</span>
+<span style="cursor:default" class="f" title="count: 14">mr</span>
+<span style="cursor:default" class="f" title="count: 12">much</span>
+<span style="cursor:default" class="f" title="count: 12">must</span>
+<span style="cursor:default" class="f" title="count: 19">my</span>
+<span style="cursor:default" class="f" title="count: 13">name</span>
+<span style="cursor:default" class="f" title="count: 13">never</span>
+<span style="cursor:default" class="f" title="count: 14">no</span>
+<span style="cursor:default" class="f" title="count: 17">not</span>
+<span style="cursor:default" class="f" title="count: 28">of</span>
+<span style="cursor:default" class="f" title="count: 13">oh</span>
+<span style="cursor:default" class="f" title="count: 15">on</span>
+<span style="cursor:default" class="f" title="count: 16">one</span>
+<span style="cursor:default" class="f" title="count: 12">perfectly</span>
+<span style="cursor:default" class="f" title="count: 14">prism</span>
+<span style="cursor:default" class="f" title="count: 13">quite</span>
+<span style="cursor:default" class="f" title="count: 12">room</span>
+<span style="cursor:default" class="f" title="count: 15">s</span>
+<span style="cursor:default" class="f" title="count: 13">she</span>
+<span style="cursor:default" class="f" title="count: 14">so</span>
+<span style="cursor:default" class="f" title="count: 12">some</span>
+<span style="cursor:default" class="f" title="count: 18">t</span>
+<span style="cursor:default" class="f" title="count: 25">that</span>
+<span style="cursor:default" class="f" title="count: 38">the</span>
+<span style="cursor:default" class="f" title="count: 13">there</span>
+<span style="cursor:default" class="f" title="count: 13">they</span>
+<span style="cursor:default" class="f" title="count: 12">thing</span>
+<span style="cursor:default" class="f" title="count: 13">think</span>
+<span style="cursor:default" class="f" title="count: 14">this</span>
+<span style="cursor:default" class="f" title="count: 12">time</span>
+<span style="cursor:default" class="f" title="count: 37">to</span>
+<span style="cursor:default" class="f" title="count: 13">up</span>
+<span style="cursor:default" class="f" title="count: 15">very</span>
+<span style="cursor:default" class="f" title="count: 15">was</span>
+<span style="cursor:default" class="f" title="count: 13">we</span>
+<span style="cursor:default" class="f" title="count: 13">well</span>
+<span style="cursor:default" class="f" title="count: 12">were</span>
+<span style="cursor:default" class="f" title="count: 15">what</span>
+<span style="cursor:default" class="f" title="count: 13">who</span>
+<span style="cursor:default" class="f" title="count: 14">will</span>
+<span style="cursor:default" class="f" title="count: 15">with</span>
+<span style="cursor:default" class="f" title="count: 13">worthing</span>
+<span style="cursor:default" class="f" title="count: 13">would</span>
+<span style="cursor:default" class="f" title="count: 13">yes</span>
+<span style="cursor:default" class="f" title="count: 35">you</span>
+<span style="cursor:default" class="f" title="count: 12">young</span>
+<span style="cursor:default" class="f" title="count: 17">your</span>
+</p>
+</div>
+</body>
+</html>
