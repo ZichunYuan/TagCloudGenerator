@@ -1,3 +1,4 @@
 # TagCloudGenerator
 Java program that generates a tag cloud from a given input text.
-<img src="Tag.PNG">
+
+<img src="TagCloud.PNG">
